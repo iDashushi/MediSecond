@@ -1,0 +1,209 @@
+2026-05-11 20:51:23,165 [INFO] Sending request: register
+2026-05-11 20:51:23,364 [INFO] Response for register: ok=True
+2026-05-11 20:51:23,365 [INFO] Registration successful for 1
+2026-05-11 20:51:24,602 [INFO] Sending request: login
+2026-05-11 20:51:24,685 [INFO] Response for login: ok=True
+2026-05-11 20:51:24,685 [INFO] Logged in as 1 (patient)
+2026-05-11 20:51:24,982 [INFO] Sending request: patient_groups
+2026-05-11 20:51:25,061 [INFO] Response for patient_groups: ok=True
+2026-05-11 20:51:25,066 [INFO] Sending request: patient_comments
+2026-05-11 20:51:25,148 [INFO] Response for patient_comments: ok=True
+2026-05-11 20:51:33,718 [INFO] Sending request: list_doctors
+2026-05-11 20:51:33,812 [INFO] Response for list_doctors: ok=True
+2026-05-11 20:51:40,958 [INFO] User logged out: 1
+2026-05-11 20:51:46,184 [INFO] Sending request: register
+2026-05-11 20:51:46,386 [INFO] Response for register: ok=True
+2026-05-11 20:51:46,386 [INFO] Registration successful for 2
+2026-05-11 20:51:47,627 [INFO] Sending request: login
+2026-05-11 20:51:47,707 [INFO] Response for login: ok=True
+2026-05-11 20:51:47,707 [INFO] Logged in as 2 (doctor)
+2026-05-11 20:51:47,986 [INFO] Sending request: doctor_groups
+2026-05-11 20:51:48,067 [INFO] Response for doctor_groups: ok=True
+2026-05-11 20:51:49,575 [INFO] User logged out: 2
+2026-05-11 20:51:53,851 [INFO] Sending request: login
+2026-05-11 20:51:53,947 [INFO] Response for login: ok=True
+2026-05-11 20:51:53,947 [INFO] Logged in as 1 (patient)
+2026-05-11 20:51:54,202 [INFO] Sending request: patient_groups
+2026-05-11 20:51:54,284 [INFO] Response for patient_groups: ok=True
+2026-05-11 20:51:54,287 [INFO] Sending request: patient_comments
+2026-05-11 20:51:54,369 [INFO] Response for patient_comments: ok=True
+2026-05-11 20:51:59,757 [INFO] Sending request: list_doctors
+2026-05-11 20:51:59,856 [INFO] Response for list_doctors: ok=True
+2026-05-11 20:52:01,924 [INFO] Sending request: upload_group
+2026-05-11 20:52:02,834 [INFO] Response for upload_group: ok=True
+2026-05-11 20:52:02,835 [INFO] Patient 1 sent group 1 to 2
+2026-05-11 20:52:03,769 [INFO] Sending request: patient_groups
+2026-05-11 20:52:03,845 [INFO] Response for patient_groups: ok=True
+2026-05-11 20:52:03,857 [INFO] Sending request: patient_comments
+2026-05-11 20:52:03,936 [INFO] Response for patient_comments: ok=True
+2026-05-11 20:52:04,854 [INFO] User logged out: 1
+2026-05-11 20:52:08,923 [INFO] Sending request: login
+2026-05-11 20:52:09,314 [INFO] Response for login: ok=True
+2026-05-11 20:52:09,315 [INFO] Logged in as 2 (doctor)
+2026-05-11 20:52:09,556 [INFO] Sending request: doctor_groups
+2026-05-11 20:52:09,634 [INFO] Response for doctor_groups: ok=True
+2026-05-11 20:52:13,939 [INFO] Sending request: comment_group
+2026-05-11 20:52:14,446 [INFO] Response for comment_group: ok=True
+2026-05-11 20:52:14,446 [INFO] Doctor 2 commented on case 1
+2026-05-11 20:52:16,574 [INFO] Sending request: group_files
+2026-05-11 20:52:16,663 [INFO] Response for group_files: ok=True
+2026-05-11 20:52:16,663 [INFO] Sending request: download
+2026-05-11 20:52:16,757 [INFO] Response for download: ok=True
+2026-05-11 20:52:16,762 [INFO] Doctor 2 opened case 1
+2026-05-11 20:52:19,996 [INFO] User logged out: 2
+2026-05-12 14:37:05,600 [INFO] Sending request: login
+2026-05-12 14:37:05,709 [INFO] Response for login: ok=True
+2026-05-12 14:37:05,709 [INFO] Logged in as 1 (patient)
+2026-05-12 14:37:05,977 [INFO] Sending request: patient_groups
+2026-05-12 14:37:06,066 [INFO] Response for patient_groups: ok=True
+2026-05-12 14:37:06,082 [INFO] Sending request: patient_comments
+2026-05-12 14:37:06,165 [INFO] Response for patient_comments: ok=True
+2026-05-12 14:37:09,653 [INFO] User logged out: 1
+2026-05-12 15:05:17,469 [INFO] Sending request: login
+2026-05-12 15:05:17,568 [INFO] Response for login: ok=True
+2026-05-12 15:05:17,568 [INFO] Logged in as 1 (patient)
+2026-05-12 15:05:17,856 [INFO] Sending request: patient_groups
+2026-05-12 15:05:17,938 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:05:17,956 [INFO] Sending request: patient_comments
+2026-05-12 15:05:18,049 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:05:52,988 [INFO] Sending request: patient_groups
+2026-05-12 15:05:54,304 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:05:54,315 [INFO] Sending request: patient_comments
+2026-05-12 15:05:54,394 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:05:56,550 [INFO] User logged out: 1
+2026-05-12 15:12:10,945 [INFO] Sending request: login
+2026-05-12 15:12:11,026 [INFO] Response for login: ok=True
+2026-05-12 15:12:11,026 [INFO] Logged in as 1 (patient)
+2026-05-12 15:12:11,279 [INFO] Sending request: patient_groups
+2026-05-12 15:12:11,363 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:12:11,389 [INFO] Sending request: patient_comments
+2026-05-12 15:12:11,497 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:13:40,727 [INFO] User logged out: 1
+2026-05-12 15:19:02,542 [INFO] Sending request: login
+2026-05-12 15:19:03,051 [INFO] Response for login: ok=True
+2026-05-12 15:19:03,051 [INFO] Logged in as 1 (patient)
+2026-05-12 15:19:03,289 [INFO] Sending request: patient_groups
+2026-05-12 15:19:03,795 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:19:03,810 [INFO] Sending request: patient_comments
+2026-05-12 15:19:03,898 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:19:35,107 [INFO] User logged out: 1
+2026-05-12 15:19:39,316 [INFO] Sending request: login
+2026-05-12 15:19:39,731 [INFO] Response for login: ok=True
+2026-05-12 15:19:39,732 [INFO] Logged in as 2 (doctor)
+2026-05-12 15:19:39,976 [INFO] Sending request: doctor_groups
+2026-05-12 15:19:40,059 [INFO] Response for doctor_groups: ok=True
+2026-05-12 15:19:45,959 [INFO] Sending request: group_files
+2026-05-12 15:19:46,802 [INFO] Response for group_files: ok=True
+2026-05-12 15:19:46,802 [INFO] Sending request: download
+2026-05-12 15:19:47,328 [INFO] Response for download: ok=True
+2026-05-12 15:19:47,334 [INFO] Doctor 2 opened case 1
+2026-05-12 15:19:54,849 [INFO] User logged out: 2
+2026-05-12 15:20:00,342 [INFO] Sending request: login
+2026-05-12 15:20:00,752 [INFO] Response for login: ok=True
+2026-05-12 15:20:00,753 [INFO] Logged in as 1 (patient)
+2026-05-12 15:20:01,030 [INFO] Sending request: patient_groups
+2026-05-12 15:20:01,262 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:20:01,276 [INFO] Sending request: patient_comments
+2026-05-12 15:20:01,718 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:20:06,973 [INFO] Sending request: list_doctors
+2026-05-12 15:20:07,880 [INFO] Response for list_doctors: ok=True
+2026-05-12 15:20:09,220 [INFO] Sending request: upload_group
+2026-05-12 15:20:11,078 [INFO] Response for upload_group: ok=True
+2026-05-12 15:20:11,079 [INFO] Patient 1 sent group 2 to 2
+2026-05-12 15:20:12,289 [INFO] Sending request: patient_groups
+2026-05-12 15:20:12,382 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:20:12,407 [INFO] Sending request: patient_comments
+2026-05-12 15:20:12,489 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:20:14,879 [INFO] User logged out: 1
+2026-05-12 15:20:17,862 [INFO] Sending request: login
+2026-05-12 15:20:18,703 [INFO] Response for login: ok=True
+2026-05-12 15:20:18,704 [INFO] Logged in as 2 (doctor)
+2026-05-12 15:20:18,960 [INFO] Sending request: doctor_groups
+2026-05-12 15:20:19,240 [INFO] Response for doctor_groups: ok=True
+2026-05-12 15:20:21,610 [INFO] Sending request: group_files
+2026-05-12 15:20:22,262 [INFO] Response for group_files: ok=True
+2026-05-12 15:20:22,262 [INFO] Sending request: download
+2026-05-12 15:20:22,919 [INFO] Response for download: ok=True
+2026-05-12 15:20:22,923 [INFO] Sending request: download
+2026-05-12 15:20:23,476 [INFO] Response for download: ok=True
+2026-05-12 15:20:23,479 [INFO] Sending request: download
+2026-05-12 15:20:23,879 [INFO] Response for download: ok=True
+2026-05-12 15:20:23,882 [INFO] Doctor 2 opened case 2
+2026-05-12 15:20:34,185 [INFO] Sending request: comment_group
+2026-05-12 15:20:34,961 [INFO] Response for comment_group: ok=True
+2026-05-12 15:20:34,962 [INFO] Doctor 2 commented on case 2
+2026-05-12 15:20:37,302 [INFO] Sending request: doctor_groups
+2026-05-12 15:20:37,743 [INFO] Response for doctor_groups: ok=True
+2026-05-12 15:20:39,988 [INFO] User logged out: 2
+2026-05-12 15:20:43,127 [INFO] Sending request: login
+2026-05-12 15:20:43,209 [INFO] Response for login: ok=True
+2026-05-12 15:20:43,210 [INFO] Logged in as 1 (patient)
+2026-05-12 15:20:43,452 [INFO] Sending request: patient_groups
+2026-05-12 15:20:43,532 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:20:43,555 [INFO] Sending request: patient_comments
+2026-05-12 15:20:43,637 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:20:51,956 [INFO] User logged out: 1
+2026-05-12 15:21:07,996 [INFO] Sending request: login
+2026-05-12 15:21:08,531 [INFO] Response for login: ok=False
+2026-05-12 15:21:10,007 [INFO] Sending request: register
+2026-05-12 15:21:10,190 [INFO] Response for register: ok=True
+2026-05-12 15:21:10,191 [INFO] Registration successful for 3
+2026-05-12 15:21:12,048 [INFO] Sending request: login
+2026-05-12 15:21:12,127 [INFO] Response for login: ok=True
+2026-05-12 15:21:12,128 [INFO] Logged in as 3 (patient)
+2026-05-12 15:21:12,387 [INFO] Sending request: patient_groups
+2026-05-12 15:21:12,489 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:21:12,492 [INFO] Sending request: patient_comments
+2026-05-12 15:21:12,573 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:21:27,014 [INFO] Sending request: list_doctors
+2026-05-12 15:21:27,545 [INFO] Response for list_doctors: ok=True
+2026-05-12 15:21:29,197 [INFO] Sending request: upload_group
+2026-05-12 15:21:33,205 [INFO] Response for upload_group: ok=True
+2026-05-12 15:21:33,205 [INFO] Patient 3 sent group 3 to 2
+2026-05-12 15:21:34,413 [INFO] Sending request: patient_groups
+2026-05-12 15:21:34,491 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:21:34,512 [INFO] Sending request: patient_comments
+2026-05-12 15:21:34,591 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:21:36,231 [INFO] User logged out: 3
+2026-05-12 15:21:38,468 [INFO] Sending request: login
+2026-05-12 15:21:39,769 [INFO] Response for login: ok=True
+2026-05-12 15:21:39,769 [INFO] Logged in as 2 (doctor)
+2026-05-12 15:21:40,014 [INFO] Sending request: doctor_groups
+2026-05-12 15:21:40,240 [INFO] Response for doctor_groups: ok=True
+2026-05-12 15:21:43,586 [INFO] Sending request: group_files
+2026-05-12 15:21:44,538 [INFO] Response for group_files: ok=True
+2026-05-12 15:21:44,539 [INFO] Sending request: download
+2026-05-12 15:21:45,000 [INFO] Response for download: ok=True
+2026-05-12 15:21:45,006 [INFO] Sending request: download
+2026-05-12 15:21:45,504 [INFO] Response for download: ok=True
+2026-05-12 15:21:45,508 [INFO] Sending request: download
+2026-05-12 15:21:45,780 [INFO] Response for download: ok=True
+2026-05-12 15:21:45,785 [INFO] Sending request: download
+2026-05-12 15:21:46,183 [INFO] Response for download: ok=True
+2026-05-12 15:21:46,188 [INFO] Doctor 2 opened case 3
+2026-05-12 15:21:55,326 [INFO] Sending request: comment_group
+2026-05-12 15:21:57,629 [INFO] Response for comment_group: ok=True
+2026-05-12 15:21:57,629 [INFO] Doctor 2 commented on case 3
+2026-05-12 15:22:00,126 [INFO] User logged out: 2
+2026-05-12 15:22:02,649 [INFO] Sending request: login
+2026-05-12 15:22:03,354 [INFO] Response for login: ok=True
+2026-05-12 15:22:03,354 [INFO] Logged in as 1 (patient)
+2026-05-12 15:22:03,608 [INFO] Sending request: patient_groups
+2026-05-12 15:22:03,702 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:22:03,730 [INFO] Sending request: patient_comments
+2026-05-12 15:22:03,807 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:22:06,266 [INFO] User logged out: 1
+2026-05-12 15:22:08,500 [INFO] Sending request: login
+2026-05-12 15:22:10,865 [INFO] Response for login: ok=True
+2026-05-12 15:22:10,865 [INFO] Logged in as 2 (doctor)
+2026-05-12 15:22:11,110 [INFO] Sending request: doctor_groups
+2026-05-12 15:22:11,192 [INFO] Response for doctor_groups: ok=True
+2026-05-12 15:22:12,301 [INFO] User logged out: 2
+2026-05-12 15:22:17,249 [INFO] Sending request: login
+2026-05-12 15:22:17,753 [INFO] Response for login: ok=True
+2026-05-12 15:22:17,753 [INFO] Logged in as 3 (patient)
+2026-05-12 15:22:17,987 [INFO] Sending request: patient_groups
+2026-05-12 15:22:18,062 [INFO] Response for patient_groups: ok=True
+2026-05-12 15:22:18,078 [INFO] Sending request: patient_comments
+2026-05-12 15:22:18,155 [INFO] Response for patient_comments: ok=True
+2026-05-12 15:22:21,371 [INFO] User logged out: 3

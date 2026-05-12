@@ -1,0 +1,212 @@
+2026-05-11 20:43:02,377 [INFO] Database setup completed
+2026-05-11 20:43:02,379 [INFO] Server running on 0.0.0.0:5555
+2026-05-11 20:50:54,857 [INFO] Database setup completed
+2026-05-11 20:50:54,859 [INFO] Server running on 0.0.0.0:5555
+2026-05-11 20:51:23,172 [INFO] Connected: ('127.0.0.1', 55586)
+2026-05-11 20:51:23,174 [INFO] Request from ('127.0.0.1', 55586): register
+2026-05-11 20:51:23,257 [INFO] Registered patient: 1
+2026-05-11 20:51:24,604 [INFO] Connected: ('127.0.0.1', 55587)
+2026-05-11 20:51:24,605 [INFO] Request from ('127.0.0.1', 55587): login
+2026-05-11 20:51:24,685 [INFO] Login successful: 1
+2026-05-11 20:51:24,983 [INFO] Connected: ('127.0.0.1', 55588)
+2026-05-11 20:51:24,983 [INFO] Request from ('127.0.0.1', 55588): patient_groups
+2026-05-11 20:51:25,068 [INFO] Connected: ('127.0.0.1', 55589)
+2026-05-11 20:51:25,068 [INFO] Request from ('127.0.0.1', 55589): patient_comments
+2026-05-11 20:51:33,719 [INFO] Connected: ('127.0.0.1', 54100)
+2026-05-11 20:51:33,720 [INFO] Request from ('127.0.0.1', 54100): list_doctors
+2026-05-11 20:51:46,184 [INFO] Connected: ('127.0.0.1', 63013)
+2026-05-11 20:51:46,185 [INFO] Request from ('127.0.0.1', 63013): register
+2026-05-11 20:51:46,276 [INFO] Registered doctor: 2
+2026-05-11 20:51:47,629 [INFO] Connected: ('127.0.0.1', 63014)
+2026-05-11 20:51:47,629 [INFO] Request from ('127.0.0.1', 63014): login
+2026-05-11 20:51:47,707 [INFO] Login successful: 2
+2026-05-11 20:51:47,988 [INFO] Connected: ('127.0.0.1', 63015)
+2026-05-11 20:51:47,988 [INFO] Request from ('127.0.0.1', 63015): doctor_groups
+2026-05-11 20:51:53,852 [INFO] Connected: ('127.0.0.1', 53601)
+2026-05-11 20:51:53,853 [INFO] Request from ('127.0.0.1', 53601): login
+2026-05-11 20:51:53,947 [INFO] Login successful: 1
+2026-05-11 20:51:54,203 [INFO] Connected: ('127.0.0.1', 53602)
+2026-05-11 20:51:54,203 [INFO] Request from ('127.0.0.1', 53602): patient_groups
+2026-05-11 20:51:54,288 [INFO] Connected: ('127.0.0.1', 53603)
+2026-05-11 20:51:54,288 [INFO] Request from ('127.0.0.1', 53603): patient_comments
+2026-05-11 20:51:59,758 [INFO] Connected: ('127.0.0.1', 53606)
+2026-05-11 20:51:59,758 [INFO] Request from ('127.0.0.1', 53606): list_doctors
+2026-05-11 20:52:01,925 [INFO] Connected: ('127.0.0.1', 51494)
+2026-05-11 20:52:01,930 [INFO] Request from ('127.0.0.1', 51494): upload_group
+2026-05-11 20:52:02,218 [INFO] Created group 1: owner=1 doctor=2
+2026-05-11 20:52:02,834 [INFO] Saved file: group=1 filename=64960.007.dcm
+2026-05-11 20:52:02,834 [INFO] Upload completed: group=1 owner=1 doctor=2 files=1
+2026-05-11 20:52:03,770 [INFO] Connected: ('127.0.0.1', 51495)
+2026-05-11 20:52:03,770 [INFO] Request from ('127.0.0.1', 51495): patient_groups
+2026-05-11 20:52:03,857 [INFO] Connected: ('127.0.0.1', 51496)
+2026-05-11 20:52:03,859 [INFO] Request from ('127.0.0.1', 51496): patient_comments
+2026-05-11 20:52:08,924 [INFO] Connected: ('127.0.0.1', 62839)
+2026-05-11 20:52:08,924 [INFO] Request from ('127.0.0.1', 62839): login
+2026-05-11 20:52:09,314 [INFO] Login successful: 2
+2026-05-11 20:52:09,557 [INFO] Connected: ('127.0.0.1', 62840)
+2026-05-11 20:52:09,558 [INFO] Request from ('127.0.0.1', 62840): doctor_groups
+2026-05-11 20:52:13,940 [INFO] Connected: ('127.0.0.1', 51162)
+2026-05-11 20:52:13,946 [INFO] Request from ('127.0.0.1', 51162): comment_group
+2026-05-11 20:52:14,446 [INFO] Comment saved: group=1 doctor=2
+2026-05-11 20:52:16,575 [INFO] Connected: ('127.0.0.1', 51163)
+2026-05-11 20:52:16,580 [INFO] Request from ('127.0.0.1', 51163): group_files
+2026-05-11 20:52:16,663 [INFO] Connected: ('127.0.0.1', 51164)
+2026-05-11 20:52:16,665 [INFO] Request from ('127.0.0.1', 51164): download
+2026-05-12 14:36:56,253 [INFO] Database setup completed
+2026-05-12 14:36:56,257 [INFO] Server running on 0.0.0.0:5555
+2026-05-12 14:37:05,604 [INFO] Connected: ('127.0.0.1', 60904)
+2026-05-12 14:37:05,605 [INFO] Request from ('127.0.0.1', 60904): login
+2026-05-12 14:37:05,709 [INFO] Login successful: 1
+2026-05-12 14:37:05,977 [INFO] Connected: ('127.0.0.1', 60905)
+2026-05-12 14:37:05,978 [INFO] Request from ('127.0.0.1', 60905): patient_groups
+2026-05-12 14:37:06,082 [INFO] Connected: ('127.0.0.1', 60906)
+2026-05-12 14:37:06,083 [INFO] Request from ('127.0.0.1', 60906): patient_comments
+2026-05-12 15:05:00,420 [INFO] Database setup completed
+2026-05-12 15:05:00,425 [INFO] Server running on 0.0.0.0:5555
+2026-05-12 15:05:17,477 [INFO] Connected: ('127.0.0.1', 63140)
+2026-05-12 15:05:17,479 [INFO] Request from ('127.0.0.1', 63140): login
+2026-05-12 15:05:17,567 [INFO] Login successful: 1
+2026-05-12 15:05:17,857 [INFO] Connected: ('127.0.0.1', 63141)
+2026-05-12 15:05:17,857 [INFO] Request from ('127.0.0.1', 63141): patient_groups
+2026-05-12 15:05:17,957 [INFO] Connected: ('127.0.0.1', 63142)
+2026-05-12 15:05:17,958 [INFO] Request from ('127.0.0.1', 63142): patient_comments
+2026-05-12 15:05:52,989 [INFO] Connected: ('127.0.0.1', 50695)
+2026-05-12 15:05:52,989 [INFO] Request from ('127.0.0.1', 50695): patient_groups
+2026-05-12 15:05:54,316 [INFO] Connected: ('127.0.0.1', 50696)
+2026-05-12 15:05:54,317 [INFO] Request from ('127.0.0.1', 50696): patient_comments
+2026-05-12 15:11:49,883 [INFO] Database setup completed
+2026-05-12 15:11:49,883 [INFO] Server running on 0.0.0.0:5555
+2026-05-12 15:12:10,946 [INFO] Connected: ('127.0.0.1', 57311)
+2026-05-12 15:12:10,947 [INFO] Request from ('127.0.0.1', 57311): login
+2026-05-12 15:12:11,026 [INFO] Login successful: 1
+2026-05-12 15:12:11,279 [INFO] Connected: ('127.0.0.1', 57312)
+2026-05-12 15:12:11,280 [INFO] Request from ('127.0.0.1', 57312): patient_groups
+2026-05-12 15:12:11,390 [INFO] Connected: ('127.0.0.1', 57313)
+2026-05-12 15:12:11,391 [INFO] Request from ('127.0.0.1', 57313): patient_comments
+2026-05-12 15:18:49,782 [INFO] Database setup completed
+2026-05-12 15:18:49,783 [INFO] Server running on 0.0.0.0:5555
+2026-05-12 15:19:02,545 [INFO] Connected: ('127.0.0.1', 53180)
+2026-05-12 15:19:02,614 [INFO] Request from ('127.0.0.1', 53180): login
+2026-05-12 15:19:03,050 [INFO] Login successful: 1
+2026-05-12 15:19:03,289 [INFO] Connected: ('127.0.0.1', 53181)
+2026-05-12 15:19:03,344 [INFO] Request from ('127.0.0.1', 53181): patient_groups
+2026-05-12 15:19:03,811 [INFO] Connected: ('127.0.0.1', 53182)
+2026-05-12 15:19:03,811 [INFO] Request from ('127.0.0.1', 53182): patient_comments
+2026-05-12 15:19:39,317 [INFO] Connected: ('127.0.0.1', 63457)
+2026-05-12 15:19:39,318 [INFO] Request from ('127.0.0.1', 63457): login
+2026-05-12 15:19:39,731 [INFO] Login successful: 2
+2026-05-12 15:19:39,977 [INFO] Connected: ('127.0.0.1', 63458)
+2026-05-12 15:19:39,978 [INFO] Request from ('127.0.0.1', 63458): doctor_groups
+2026-05-12 15:19:45,960 [INFO] Connected: ('127.0.0.1', 63459)
+2026-05-12 15:19:46,030 [INFO] Request from ('127.0.0.1', 63459): group_files
+2026-05-12 15:19:46,803 [INFO] Connected: ('127.0.0.1', 63460)
+2026-05-12 15:19:46,877 [INFO] Request from ('127.0.0.1', 63460): download
+2026-05-12 15:20:00,343 [INFO] Connected: ('127.0.0.1', 63464)
+2026-05-12 15:20:00,361 [INFO] Request from ('127.0.0.1', 63464): login
+2026-05-12 15:20:00,752 [INFO] Login successful: 1
+2026-05-12 15:20:01,031 [INFO] Connected: ('127.0.0.1', 63465)
+2026-05-12 15:20:01,067 [INFO] Request from ('127.0.0.1', 63465): patient_groups
+2026-05-12 15:20:01,277 [INFO] Connected: ('127.0.0.1', 63466)
+2026-05-12 15:20:01,339 [INFO] Request from ('127.0.0.1', 63466): patient_comments
+2026-05-12 15:20:06,973 [INFO] Connected: ('127.0.0.1', 63467)
+2026-05-12 15:20:07,057 [INFO] Request from ('127.0.0.1', 63467): list_doctors
+2026-05-12 15:20:09,234 [INFO] Connected: ('127.0.0.1', 63468)
+2026-05-12 15:20:09,303 [INFO] Request from ('127.0.0.1', 63468): upload_group
+2026-05-12 15:20:09,854 [INFO] Created group 2: owner=1 doctor=2
+2026-05-12 15:20:10,478 [INFO] Saved file: group=2 filename=64960.001.dcm
+2026-05-12 15:20:10,817 [INFO] Saved file: group=2 filename=64960.002.dcm
+2026-05-12 15:20:11,078 [INFO] Saved file: group=2 filename=64960.003.dcm
+2026-05-12 15:20:11,078 [INFO] Upload completed: group=2 owner=1 doctor=2 files=3
+2026-05-12 15:20:12,290 [INFO] Connected: ('127.0.0.1', 63469)
+2026-05-12 15:20:12,291 [INFO] Request from ('127.0.0.1', 63469): patient_groups
+2026-05-12 15:20:12,408 [INFO] Connected: ('127.0.0.1', 63470)
+2026-05-12 15:20:12,409 [INFO] Request from ('127.0.0.1', 63470): patient_comments
+2026-05-12 15:20:17,862 [INFO] Connected: ('127.0.0.1', 63475)
+2026-05-12 15:20:17,938 [INFO] Request from ('127.0.0.1', 63475): login
+2026-05-12 15:20:18,703 [INFO] Login successful: 2
+2026-05-12 15:20:18,961 [INFO] Connected: ('127.0.0.1', 51514)
+2026-05-12 15:20:19,001 [INFO] Request from ('127.0.0.1', 51514): doctor_groups
+2026-05-12 15:20:21,611 [INFO] Connected: ('127.0.0.1', 51515)
+2026-05-12 15:20:21,643 [INFO] Request from ('127.0.0.1', 51515): group_files
+2026-05-12 15:20:22,263 [INFO] Connected: ('127.0.0.1', 51516)
+2026-05-12 15:20:22,381 [INFO] Request from ('127.0.0.1', 51516): download
+2026-05-12 15:20:22,924 [INFO] Connected: ('127.0.0.1', 51517)
+2026-05-12 15:20:23,005 [INFO] Request from ('127.0.0.1', 51517): download
+2026-05-12 15:20:23,480 [INFO] Connected: ('127.0.0.1', 51518)
+2026-05-12 15:20:23,510 [INFO] Request from ('127.0.0.1', 51518): download
+2026-05-12 15:20:34,186 [INFO] Connected: ('127.0.0.1', 51519)
+2026-05-12 15:20:34,232 [INFO] Request from ('127.0.0.1', 51519): comment_group
+2026-05-12 15:20:34,961 [INFO] Comment saved: group=2 doctor=2
+2026-05-12 15:20:37,303 [INFO] Connected: ('127.0.0.1', 51520)
+2026-05-12 15:20:37,363 [INFO] Request from ('127.0.0.1', 51520): doctor_groups
+2026-05-12 15:20:43,128 [INFO] Connected: ('127.0.0.1', 51522)
+2026-05-12 15:20:43,129 [INFO] Request from ('127.0.0.1', 51522): login
+2026-05-12 15:20:43,209 [INFO] Login successful: 1
+2026-05-12 15:20:43,453 [INFO] Connected: ('127.0.0.1', 51523)
+2026-05-12 15:20:43,453 [INFO] Request from ('127.0.0.1', 51523): patient_groups
+2026-05-12 15:20:43,556 [INFO] Connected: ('127.0.0.1', 51524)
+2026-05-12 15:20:43,557 [INFO] Request from ('127.0.0.1', 51524): patient_comments
+2026-05-12 15:21:08,003 [INFO] Connected: ('127.0.0.1', 54385)
+2026-05-12 15:21:08,030 [INFO] Request from ('127.0.0.1', 54385): login
+2026-05-12 15:21:08,530 [WARNING] Login failed: 3
+2026-05-12 15:21:10,008 [INFO] Connected: ('127.0.0.1', 54386)
+2026-05-12 15:21:10,008 [INFO] Request from ('127.0.0.1', 54386): register
+2026-05-12 15:21:10,081 [INFO] Registered patient: 3
+2026-05-12 15:21:12,049 [INFO] Connected: ('127.0.0.1', 54387)
+2026-05-12 15:21:12,050 [INFO] Request from ('127.0.0.1', 54387): login
+2026-05-12 15:21:12,127 [INFO] Login successful: 3
+2026-05-12 15:21:12,388 [INFO] Connected: ('127.0.0.1', 54388)
+2026-05-12 15:21:12,389 [INFO] Request from ('127.0.0.1', 54388): patient_groups
+2026-05-12 15:21:12,492 [INFO] Connected: ('127.0.0.1', 54389)
+2026-05-12 15:21:12,493 [INFO] Request from ('127.0.0.1', 54389): patient_comments
+2026-05-12 15:21:27,015 [INFO] Connected: ('127.0.0.1', 54391)
+2026-05-12 15:21:27,016 [INFO] Request from ('127.0.0.1', 54391): list_doctors
+2026-05-12 15:21:29,198 [INFO] Connected: ('127.0.0.1', 54392)
+2026-05-12 15:21:29,254 [INFO] Request from ('127.0.0.1', 54392): upload_group
+2026-05-12 15:21:30,125 [INFO] Created group 3: owner=3 doctor=2
+2026-05-12 15:21:32,085 [INFO] Saved file: group=3 filename=64960.001.dcm
+2026-05-12 15:21:32,689 [INFO] Saved file: group=3 filename=64960.002.dcm
+2026-05-12 15:21:32,955 [INFO] Saved file: group=3 filename=64960.003.dcm
+2026-05-12 15:21:33,204 [INFO] Saved file: group=3 filename=64960.004.dcm
+2026-05-12 15:21:33,204 [INFO] Upload completed: group=3 owner=3 doctor=2 files=4
+2026-05-12 15:21:34,414 [INFO] Connected: ('127.0.0.1', 54393)
+2026-05-12 15:21:34,414 [INFO] Request from ('127.0.0.1', 54393): patient_groups
+2026-05-12 15:21:34,513 [INFO] Connected: ('127.0.0.1', 54394)
+2026-05-12 15:21:34,513 [INFO] Request from ('127.0.0.1', 54394): patient_comments
+2026-05-12 15:21:38,469 [INFO] Connected: ('127.0.0.1', 63676)
+2026-05-12 15:21:38,533 [INFO] Request from ('127.0.0.1', 63676): login
+2026-05-12 15:21:39,769 [INFO] Login successful: 2
+2026-05-12 15:21:40,015 [INFO] Connected: ('127.0.0.1', 63677)
+2026-05-12 15:21:40,051 [INFO] Request from ('127.0.0.1', 63677): doctor_groups
+2026-05-12 15:21:43,587 [INFO] Connected: ('127.0.0.1', 63679)
+2026-05-12 15:21:43,623 [INFO] Request from ('127.0.0.1', 63679): group_files
+2026-05-12 15:21:44,540 [INFO] Connected: ('127.0.0.1', 63680)
+2026-05-12 15:21:44,604 [INFO] Request from ('127.0.0.1', 63680): download
+2026-05-12 15:21:45,007 [INFO] Connected: ('127.0.0.1', 63681)
+2026-05-12 15:21:45,090 [INFO] Request from ('127.0.0.1', 63681): download
+2026-05-12 15:21:45,509 [INFO] Connected: ('127.0.0.1', 63682)
+2026-05-12 15:21:45,555 [INFO] Request from ('127.0.0.1', 63682): download
+2026-05-12 15:21:45,785 [INFO] Connected: ('127.0.0.1', 63683)
+2026-05-12 15:21:45,850 [INFO] Request from ('127.0.0.1', 63683): download
+2026-05-12 15:21:55,327 [INFO] Connected: ('127.0.0.1', 63687)
+2026-05-12 15:21:55,374 [INFO] Request from ('127.0.0.1', 63687): comment_group
+2026-05-12 15:21:57,628 [INFO] Comment saved: group=3 doctor=2
+2026-05-12 15:22:02,650 [INFO] Connected: ('127.0.0.1', 63688)
+2026-05-12 15:22:02,651 [INFO] Request from ('127.0.0.1', 63688): login
+2026-05-12 15:22:03,354 [INFO] Login successful: 1
+2026-05-12 15:22:03,609 [INFO] Connected: ('127.0.0.1', 63689)
+2026-05-12 15:22:03,616 [INFO] Request from ('127.0.0.1', 63689): patient_groups
+2026-05-12 15:22:03,730 [INFO] Connected: ('127.0.0.1', 63690)
+2026-05-12 15:22:03,732 [INFO] Request from ('127.0.0.1', 63690): patient_comments
+2026-05-12 15:22:08,501 [INFO] Connected: ('127.0.0.1', 63693)
+2026-05-12 15:22:08,580 [INFO] Request from ('127.0.0.1', 63693): login
+2026-05-12 15:22:10,864 [INFO] Login successful: 2
+2026-05-12 15:22:11,111 [INFO] Connected: ('127.0.0.1', 57960)
+2026-05-12 15:22:11,114 [INFO] Request from ('127.0.0.1', 57960): doctor_groups
+2026-05-12 15:22:17,250 [INFO] Connected: ('127.0.0.1', 63375)
+2026-05-12 15:22:17,279 [INFO] Request from ('127.0.0.1', 63375): login
+2026-05-12 15:22:17,753 [INFO] Login successful: 3
+2026-05-12 15:22:17,988 [INFO] Connected: ('127.0.0.1', 63736)
+2026-05-12 15:22:17,988 [INFO] Request from ('127.0.0.1', 63736): patient_groups
+2026-05-12 15:22:18,078 [INFO] Connected: ('127.0.0.1', 63737)
+2026-05-12 15:22:18,079 [INFO] Request from ('127.0.0.1', 63737): patient_comments
